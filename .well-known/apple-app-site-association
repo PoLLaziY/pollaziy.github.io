@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "S77TU5PR2F.com.playtox.GardenOfWonders",
+                "paths": ["/apple/universallinks/mferma"]
+            },
+            {
+                "appID": "S77TU5PR2F.com.playtox.flib",
+                "paths": ["/apple/universallinks/flibu"]
+            }
+        ]
+    }
+}
