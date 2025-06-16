@@ -2,11 +2,38 @@
   "applinks": {
     "details": [
       {
-        "appID": "S77TU5PR2F.com.playtox.GardenOfWonders",
+        "appIDs": [ "S77TU5PR2F.com.playtox.GardenOfWonders" ],
         "components": [
           {
             "/": "/apple/ul",
             "?": { "appId": "mferma" }
+          }
+        ]
+      },
+      {
+        "appIDs": [ "S77TU5PR2F.com.playtox.flib" ],
+        "components": [
+          {
+            "/": "/apple/ul",
+            "?": { "appId": "flibu" }
+          }
+        ]
+      },
+      {
+        "appIDs": [ "S77TU5PR2F.com.playtox.vten" ],
+        "components": [
+          {
+            "/": "/apple/ul",
+            "?": { "appId": "vten" }
+          }
+        ]
+      },
+      {
+        "appIDs": [ "S77TU5PR2F.com.playtox.tanks" ],
+        "components": [
+          {
+            "/": "/apple/ul",
+            "?": { "appId": "tanks" }
           }
         ]
       }
