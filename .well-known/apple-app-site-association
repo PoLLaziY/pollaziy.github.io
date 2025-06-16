@@ -36,6 +36,33 @@
             "?": { "appId": "tanks" }
           }
         ]
+      },
+      {
+        "appIDs": [ "S77TU5PR2F.com.playtox.lords" ],
+        "components": [
+          {
+            "/": "/apple/ul",
+            "?": { "appId": "lords" }
+          }
+        ]
+      },
+      {
+        "appIDs": [ "S77TU5PR2F.com.playtox.zoner" ],
+        "components": [
+          {
+            "/": "/apple/ul",
+            "?": { "appId": "hata" }
+          }
+        ]
+      },
+      {
+        "appIDs": [ "S77TU5PR2F.com.playtox.vmmo" ],
+        "components": [
+          {
+            "/": "/apple/ul",
+            "?": { "appId": "vmmo" }
+          }
+        ]
       }
     ]
   }
