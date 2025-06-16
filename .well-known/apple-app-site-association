@@ -2,7 +2,7 @@
   "applinks": {
     "details": [
       {
-        "appIDs": [ "S77TU5PR2F.com.playtox.GardenOfWonders" ],
+        "appID": "S77TU5PR2F.com.playtox.GardenOfWonders",
         "components": [
           {
             "/": "/apple/ul",
