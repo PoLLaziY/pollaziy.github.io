@@ -5,10 +5,7 @@
         "appID": "S77TU5PR2F.com.playtox.GardenOfWonders",
         "components": [
           {
-            "path": "/apple/ul",
-            "query": {
-              "appId": "mferma"
-            }
+            "path": "/apple/ul"
           }
         ]
       }
