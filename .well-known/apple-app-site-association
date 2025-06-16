@@ -11,17 +11,6 @@
             }
           }
         ]
-      },
-      {
-        "appID": "S77TU5PR2F.com.playtox.flib",
-        "components": [
-          {
-            "path": "/apple/ul",
-            "query": {
-              "appId": "flibu"
-            }
-          }
-        ]
       }
     ]
   }
